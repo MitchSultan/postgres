@@ -31,7 +31,7 @@ export default function skills() {
       >
        
         <h2 className="mt-4 text-xl font-bold ">   
-        Investing</h2>
+        Buying Stocks</h2>
 
         <p className="mt-1 text-sm ">
          
@@ -44,7 +44,7 @@ Investing is a key component to building a life of freedom. We're creating tons 
         href="#"
       >
 
-        <h2 className="mt-4 text-xl font-bold ">Sales Funnels</h2>
+        <h2 className="mt-4 text-xl font-bold ">Selling anywhere</h2>
 
         <p className="mt-1 text-sm ">
 
@@ -57,10 +57,10 @@ Sales funnels can automate and increase conversions for your products and promot
         href="#"
       >
         
-        <h2 className="mt-4 text-xl font-bold ">Blogging</h2>
+        <h2 className="mt-4 text-xl font-bold ">Content Creation</h2>
 
         <p className="mt-1 text-sm ">
-        Blogging is a fantastic way to make passive income online. See all our blogging guides and reviews.    </p>
+        Content creation is a fantastic way to make passive income online. See all our blogging guides and reviews.    </p>
       </a>
 
       <a
@@ -68,7 +68,7 @@ Sales funnels can automate and increase conversions for your products and promot
         href="#"
       >
        
-        <h2 className="mt-4 text-xl font-bold ">Precious Metals</h2>
+        <h2 className="mt-4 text-xl font-bold ">Gold options</h2>
 
         <p className="mt-1 text-sm ">
 
@@ -81,7 +81,7 @@ Gold and precious metals are great for retirement and protecting your wealth. Se
         href="#"
       >
        
-        <h2 className="mt-4 text-xl font-bold ">Cryptocurrencies</h2>
+        <h2 className="mt-4 text-xl font-bold ">Crypto</h2>
 
         <p className="mt-1 text-sm ">
 
