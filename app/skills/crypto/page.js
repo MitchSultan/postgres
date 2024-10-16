@@ -1,13 +1,13 @@
 import React from 'react'
 import Navbar from '../../components/Navbar'
-import makeMoney from '../../components/makeMoney'
+import SkillPage from '../../components/skillPage'
 import Footer from '../../components/footer'
 
 export default function page() {
   return (
     <div>
         <Navbar />
-        <makeMoney/>
+        <SkillPage />
         <Footer />
     </div>
   )

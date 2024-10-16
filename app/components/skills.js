@@ -15,7 +15,7 @@ export default function skills() {
     <div className="mt-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
       <a
         className="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
-        href="#"
+        href="../skills/make-money-online"
       >
 
         <h2 className="mt-4 text-xl font-bold ">Make Money Online</h2>
@@ -27,7 +27,7 @@ export default function skills() {
 
       <a
         className="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
-        href="#"
+        href="../skills/stocks"
       >
        
         <h2 className="mt-4 text-xl font-bold ">   
@@ -41,7 +41,7 @@ Investing is a key component to building a life of freedom. We're creating tons 
 
       <a
         className="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
-        href="#"
+        href="../skills/sales"
       >
 
         <h2 className="mt-4 text-xl font-bold ">Selling anywhere</h2>
@@ -54,7 +54,7 @@ Sales funnels can automate and increase conversions for your products and promot
 
       <a
         className="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
-        href="#"
+        href="../skills/content"
       >
         
         <h2 className="mt-4 text-xl font-bold ">Content Creation</h2>
@@ -65,7 +65,7 @@ Sales funnels can automate and increase conversions for your products and promot
 
       <a
         className="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
-        href="#"
+        href="../skills/gold"
       >
        
         <h2 className="mt-4 text-xl font-bold ">Gold options</h2>
@@ -78,7 +78,7 @@ Gold and precious metals are great for retirement and protecting your wealth. Se
 
       <a
         className="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
-        href="#"
+        href="../skills/crypto"
       >
        
         <h2 className="mt-4 text-xl font-bold ">Crypto</h2>

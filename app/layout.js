@@ -25,6 +25,7 @@ export default function RootLayout({ children }) {
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5728506428158157"
      crossorigin="anonymous"></script>
      <meta name="google-site-verification" content="zlPL1-vGtEemOYWKv6hHsVhb_EfhcQVWE5DHYcjiK8E" />
+     <meta name='impact-site-verification' value='39fce37e-93b9-422f-83bc-147842009243'></meta>
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}

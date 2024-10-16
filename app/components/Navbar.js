@@ -35,13 +35,13 @@ export default function Navbar() {
                         Skills
                       </button>
                       {isSkillsDropdownOpen && (
-                        <div className="absolute z-10 w-screen py-2 mt-2 bg-white rounded-md shadow-xl">
+                        <div className="absolute z-10 w-96 py-2 mt-2 bg-white rounded-md shadow-xl">
                           <a href="/skills/make-money-online" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Make Money Online</a>
-                          <a href="/skills/cryptocurrencies" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Cryptocurrencies</a>
-                          <a href="/skills/investing" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Investing</a>
-                          <a href="/skills/blogging" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Blogging</a>
-                          <a href="/skills/precious-metals" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Precious Metals</a>
-                          <a href="/skills/sales-funnel" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Sales Funnel</a>
+                          <a href="/skills/crypto" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Cryptocurrencies</a>
+                          <a href="/skills/stocks" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Investing</a>
+                          <a href="/skills/content" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Blogging</a>
+                          <a href="/skills/gold" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Precious Metals</a>
+                          <a href="/skills/sales" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Sales Funnel</a>
                         </div>
                       )}
                     </div>
@@ -129,11 +129,11 @@ export default function Navbar() {
               {isSkillsDropdownOpen && (
                 <div className="pl-4 space-y-2">
                   <a href="/skills/make-money-online" className="block py-2 text-sm text-gray-700">Make Money Online</a>
-                  <a href="/skills/cryptocurrencies" className="block py-2 text-sm text-gray-700">Cryptocurrencies</a>
-                  <a href="/skills/investing" className="block py-2 text-sm text-gray-700">Investing</a>
-                  <a href="/skills/blogging" className="block py-2 text-sm text-gray-700">Blogging</a>
-                  <a href="/skills/precious-metals" className="block py-2 text-sm text-gray-700">Precious Metals</a>
-                  <a href="/skills/sales-funnel" className="block py-2 text-sm text-gray-700">Sales Funnel</a>
+                  <a href="/skills/crypto" className="block py-2 text-sm text-gray-700">Cryptocurrencies</a>
+                  <a href="/skills/stocks" className="block py-2 text-sm text-gray-700">Investing</a>
+                  <a href="/skills/content" className="block py-2 text-sm text-gray-700">Blogging</a>
+                  <a href="/skills/gold" className="block py-2 text-sm text-gray-700">Precious Metals</a>
+                  <a href="/skills/sales" className="block py-2 text-sm text-gray-700">Sales Funnel</a>
                 </div>
               )}
 
@@ -146,6 +146,7 @@ export default function Navbar() {
                   <a href="/resources/courses" className="block py-2 text-sm text-gray-700">Courses</a>
                   <a href="/resources/ebooks" className="block py-2 text-sm text-gray-700">E-books</a>
                   <a href="/resources/tools" className="block py-2 text-sm text-gray-700">Tools</a>
+                   
                 </div>
               )}
 
